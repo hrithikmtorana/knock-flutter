@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_native_timezone: ^2.0.0
-  freezed_annotation: ^2.4.1
+  freezed_annotation: ^3.1.0
   http: ^1.1.0
   json_annotation: ^4.8.1
   phoenix_socket: ^0.8.0
@@ -21,10 +21,10 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   flutter_test:
     sdk: flutter
-  freezed: ^2.4.5
+  freezed:
   json_serializable: ^6.7.1
   mockito: ^5.4.3
-  pigeon: ^14.0.1
+  pigeon: ^26.1.0
   very_good_analysis: ^5.1.0
 
 flutter:
